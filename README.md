@@ -1,4 +1,4 @@
-# Hi 👋 My name is Naveen Prasath S
+# Hi 👋 I am  Naveen Prasath S
 
 ## Python Full Stack Developer | Full Stack Web Developer
 
