@@ -29,8 +29,3 @@ Hi there! 👋 I’m Naveen Prasath S, a passionate **Python Full Stack Develope
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=naveen11022&show_icons=true&theme=default" />
-</p>
